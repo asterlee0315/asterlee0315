@@ -1,4 +1,4 @@
-# 안녕하세용
+# 안녕하세요 / Hi / Hallo 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hyewon%20Lee&fontSize=90)
 
